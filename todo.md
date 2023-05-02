@@ -1,0 +1,4 @@
+- dialog system
+- dialog selection
+- drag into area
+- hover to see details
